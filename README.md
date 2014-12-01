@@ -1,0 +1,4 @@
+worldsknowledge
+===============
+
+Världens information
